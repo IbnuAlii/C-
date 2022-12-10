@@ -1,3 +1,0 @@
-D:/MOSH HAMADANI/C++/04 Decision Making/cmake-build-debug/CMakeFiles/04_Decision_Making.dir
-D:/MOSH HAMADANI/C++/04 Decision Making/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/MOSH HAMADANI/C++/04 Decision Making/cmake-build-debug/CMakeFiles/rebuild_cache.dir
