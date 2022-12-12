@@ -1,0 +1,3 @@
+D:/MOSH HAMADANI/C++/Ultimate C++ Part 2/04 Structures and Enumerations/cmake-build-debug/CMakeFiles/04_Structures_and_Enumerations.dir
+D:/MOSH HAMADANI/C++/Ultimate C++ Part 2/04 Structures and Enumerations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MOSH HAMADANI/C++/Ultimate C++ Part 2/04 Structures and Enumerations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
